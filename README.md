@@ -8,3 +8,10 @@ Netflix is an application that keeps growing bigger and faster with its populari
 #### IMDb movies extensive dataset : https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset
 
 This project is all about Netflix recommendation model and EDA but you will see two file one is for Netflix movies and Tv shows recommendation model & EDA and second is for Netlix vs Books recommendation model & EDA
+
+# Spotify-Part-1-
+This project is about the Analysis of Spotify Top 50 songs
+#### Information link : https://en.wikipedia.org/wiki/Spotify
+
+# Spotify-Part-2-
+In the previous part I have made analysis for spotify's top 50 songs. In this part I have created machine learning
